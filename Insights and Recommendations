@@ -1,0 +1,55 @@
+# Amazon Sales Data Analysis: Insights and Recommendations
+
+## 1. Project Overview
+
+This project analyses Amazon sales data using Microsoft Excel to identify sales trends, evaluate product performance, and provide business recommendations.
+
+## 2. Key Insights
+
+### Insight 1: Sales Performance
+Analyse total sales and identify periods with high and low sales.
+
+### Insight 2: Product Performance
+Identify the products with the highest and lowest sales to understand customer demand.
+
+### Insight 3: Monthly Sales Trends
+Examine monthly sales trends to identify changes in sales performance over time.
+
+### Insight 4: Category Performance
+Compare sales across product categories to identify the strongest-performing categories.
+
+### Insight 5: Order Analysis
+Analyse order statuses, cancellations, and returns if the required information is available in the dataset.
+
+## 3. Business Recommendations
+
+1. **Inventory Management:** Maintain sufficient inventory for products with consistently high sales.
+
+2. **Product Improvement:** Investigate the reasons for low sales and explore ways to improve product visibility and customer interest.
+
+3. **Sales Planning:** Use monthly sales trends to plan inventory and promotional activities.
+
+4. **Marketing Strategy:** Focus marketing efforts on products and categories with strong sales potential.
+
+5. **Order Management:** Investigate cancellation and return reasons, where applicable, to improve the customer experience.
+
+## 4. Tools Used
+
+- Microsoft Excel
+- Excel Formulas
+- PivotTables
+- Charts and Dashboards
+- GitHub
+
+## 5. Conclusion
+
+This project demonstrates how sales data analysis can help identify business trends, understand product performance, and support informed decision-making.
+
+The recommendations can help businesses improve inventory planning, marketing strategies, and overall sales performance.
+
+## 6. Future Improvements
+
+- Build an interactive dashboard.
+- Analyse customer purchasing patterns if the required data is available.
+- Use Python for advanced data analysis.
+- Develop predictive models to forecast future sales.
